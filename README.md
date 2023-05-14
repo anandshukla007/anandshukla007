@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandshukla007" alt="anandshukla007" /></a> </p>
 
-- 🔭 I’m currently working on [Find.Dev](https://findev-me.herokuapp.com/)
-
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **shuanand002@gmail.com**
 
